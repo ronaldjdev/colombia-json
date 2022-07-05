@@ -1,4 +1,5 @@
-[  
+{
+"localization":[
     {  
         "id":0,
         "departamento":"Amazonas",
@@ -1296,3 +1297,4 @@
         ]
     }
 ]
+}
